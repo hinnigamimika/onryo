@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<!-- 
+
+⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⡶⠿⠿⠿⠿⠿⠿⣶⣦⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢀⣴⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣦⣄⠀⠀⠀⠀⠀
+⠀⠀⢀⣴⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⣤⣀⣀⠀⠀⠈⠻⣦⡀⠀⠀⠀
+⠀⢀⣾⠋⢀⣴⡄⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠛⠻⠿⠂⠀⠀⠙⣷⡄⠀⠀
+⠀⣾⠇⣠⣿⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠆⠀⠀⠀⠀⠀⠸⣷⡀⠀
+⢸⡟⠘⠛⠁⣰⣿⣿⡆⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⠀⠀⠀⢻⣧⠀
+⢸⡇⠀⠀⠀⠸⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⡀
+⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡇
+⢸⣧⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⣤⠀⠀⣾⡆⠀⠀⠀⠀⠀⠀⢠⣿⠃         
+⠀⣿⡄⠀⠀⠀⠀⠀⠀⢾⡇⠀⠀⢀⣿⣦⣤⡿⠁⠀⠀⠀⠀⠀⠀⣼⡟⠀
+⠀⠸⣧⠀⠀⠀⠀⠀⠀⠈⠛⠛⠛⠛⠁⠈⠉⠀⠀⠀⠀⠀⠀⢀⣼⡟⠁⠀
+⠀⠀⠙⣷⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢀⣴⣿⠋⠀⠀⠀
+⠀⠀⠀⠈⠙⢿⣦⣄⣀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣴⣾⣿⠿⠋⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠉⠛⠛⠻⠿⠿⠿⠿⠛⠛⠛⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀
+if u take my code or modify it for ur own website i will find out
+
+
+-->
+<html lang="en">
+<head>
+  <title>888</title>
+  <meta charset="utf-8"/>
+  <link rel="shortcut icon" type="image/jpg" href="https://cdn.discordapp.com/attachments/298980640156680194/942662395518656532/unknown.png">
+<link href="/css/indexs.css" rel="stylesheet" type="text/css" media="all">
+  <meta name="description" content="888">
+<script>
+
+
+</script>
+<style>
+
+</style>
+<body>
+<div class="holder"> 
+<div class="header"><div style="float:left;width:30%;background: transparent;"><span style="color: #ffd4e7;font-size:56px;font-weight:900;-webkit-text-stroke:1px #ff8cbf;letter-spacing:-4px;">NYAASPACE★</span></div>
+<div style="float: right;width:67%;background: tansparent;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958068518711095356/bd.png" style="width:20.3%;position:absolute;right:-21.3%;top:-1%;">
+
+<marquee behavior="alternate"><img src="https://media.discordapp.net/attachments/298980640156680194/940675315116671046/unknown.png"width=auto> <img src="https://media.discordapp.net/attachments/298980640156680194/940675344736845884/unknown.png"> <img src="https://cdn.discordapp.com/attachments/298980640156680194/941553358647472170/ibbanner.png"width=114> <img src="https://64.media.tumblr.com/11f4027d7bf047eb232a1e52c2f85631/154db52d0ca9ab65-ba/s250x400/80fd82c40444dc7d55842a67f6aed78bf4a9a2bc.gifv"width=80><img src="https://web.archive.org/web/20130803191040im_/http://www.sanrio.co.jp/rs/may2013/img/banner_fanfan_1.jpg "><img src=""></marquee>
+
+
+ </div>
+</div>
+<div class="main">
+
+<span class="textz">
+
+<div class="one">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/946912401104711770/step00013.gif" style="width:100%;"><br><br>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/946916971444846692/yazzzz2.png" style="width:80%;">
+<div style="background: transparent;width: 70%;text-align: left;margin: 0 auto;line-height: 30px;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://nyaa.neocities.org/index.html">home</a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118395537932379/tumblr_a9c36ff4fb1b4c15518733a1f2469d75_442fab6f_75.webp"><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://nyaa.neocities.org/about.html">about</a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118395303055420/tumblr_inline_p7ga3pant71qid2nw_75sq.webp"><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://nyaa.neocities.org/shrines.html">shrines</a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966119403097841704/tumblr_2cc8ab89419c979b3f57ba6bd4d396eb_b10170e7_75.webp"><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://nyaa.neocities.org/journal.html">journal</a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118394518708274/tumblr_aeafa75e9c70ee4b71fad670d55dd719_8c49c182_75.webp"><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://nyaa.neocities.org/garden.html">stickers</a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393939898398/tumblr_e576ead2aadef513b4680d79218d16f1_9dfd79a9_75.webp"><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://nyaa.neocities.org/sitemap.html">sitemap</a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393453346826/tumblr_60edc9af2f5231595bbf083ac66b90c9_374e496c_75.webp"><br><br>
+</div>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949359897332563988/ba-mail.png" style="width:80%;">
+
+
+<div style="background: transparent;width: 70%;text-align: left;margin: 0 auto;line-height: 30px;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://neocities.org/site/nyaa">profile</a><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://twitter.com/REZHlI">twitter</a><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://myanimelist.net/profile/88call">mal</a>/<a href="https://myfigurecollection.net/profile/888call">mfc</a><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/966118393218490378/tumblr_a81f357dfd1494d763b4ac8d3520468d_38bbab18_75.webp"><a href="https://19s.crd.co/">carrd</a><br>
+
+</div><br>
+
+<div class="floater"> 
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949357102277750814/ba_evblog_02.png">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949357062167613522/spl_mm.png" style="width:100%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949358350582288444/kt_world_200x40.gif" style="width:100%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949357788683980840/manyuuki_banner_s.png" style="width:101%;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949357171190136842/twitter_homura.png" style="width:100%;">
+
+
+</div>
+
+
+
+</div>
+
+<div class="two">
+
+<div style="width:100%;"> 
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949356533035188224/head01.png" style="margin-bottom:-2px;">
+<div style="float: left;background: transparent;width:37%;position:relative;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015950581760/tumblr_d54e0a2b2464090073d2938c22a20b49_9bc0f155_250.gif" style="position:absolute;bottom:0%;left:10%;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949356733875241050/top01_02.png" style="width:266px ;height:221px;margin-top:6px;margin-left:6px;"></div>
+<div style="float: right;width:61.2%;padding:5px;"><div style="border:1px dotted#ffd4e7;padding:10px;background: #fffcf7;position:relative;height:201px;"><span style="color:pink;font-size:36px;font-weight:900;-webkit-text-stroke:1px #ff8cbf;letter-spacing:2px;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573016596500500/tumblr_ce236712392d7569944f9da4e905b4dd_105d99c6_75.gif" style="width:30px;"> <i>WELCOME!</i> <img src="https://cdn.discordapp.com/attachments/298980640156680194/958573016596500500/tumblr_ce236712392d7569944f9da4e905b4dd_105d99c6_75.gif" style="width:30px;"></span><br>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573016407744512/tumblr_e8ae6f7343bc7df0f5011c3e9d52f7cc_4309a23b_250.gif">
+
+<div style="text-align:left;font-weight:600;margin-top:5px;"> 
+NYAA SPACE is an on-going artistic outlet. This space serves as the collective output of my mind! For what's in here, who really knows? Feel free to look around and enjoy. ♫ Please report any issues in my CBOX<img src="https://64.media.tumblr.com/60009e7ff1a99f8fa56da3f90df4f7c5/3f72e1139e694a57-06/s75x75_c1/7a904faaa78f575f38ab781144b6f605b0cd99b6.gifv">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958476113854750740/Illustration10.png" style="position:absolute;right:-10%;top:-9%;width:35%;transform: rotate(13deg);filter: drop-shadow(0px 0px 5px pink);">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573016189632543/tumblr_0692a5af96208927cb1e591aa33127b1_3e2d6dc1_250.gif" style="position:absolute;right:0%;bottom:61%;width:14%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573250370232351/tumblr_56012d286fda621ed05545e4ccef998d_73393572_75.webp" style="position:absolute;left:1%;bottom:66%;">
+<div style="margin:0 auto;text-align:center;background: linear-gradient(#ffd4e7, #ff8cbf);position:absolute;bottom:3%;left:0%; padding:4px 2px 4px 0px;text-decoration: underline dotted 1px white;line-height:15px;border:1px solid #94736a;cursor: pointer;" title="plz jsut close ur damn browser if ur not even going to view this page properly... it could be horrible"> THIS SITE IS INTENDED FOR GOOGLE CHROME WIDE DESKTOP WHATEVER THE FUCK DIMENSIONS ! ★</div>
+</div></div>
+
+
+
+</div>
+
+</div>
+<div style="background: transparent;width:100%;clear:both;padding:6px 0px 6px 0px;margin-bottom:4px;"><img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015732465754/tumblr_ff49ea7234991835d9236af463a14982_f0a5e2e8_75.gif" style="margin-top:-20px;"><mark>THE INS AND OUTS !</mark><img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015732465754/tumblr_ff49ea7234991835d9236af463a14982_f0a5e2e8_75.gif" style="margin-top:-20px;"></div>
+
+<div style="width:100%;"> 
+<div style="float: left;background: transparent;width:50%;height:240px;position:relative;background-image:url('https://cdn.discordapp.com/attachments/298980640156680194/949359194375602226/MM002Wout_t.png');box-shadow:inset 0 0 0 2000px #ffffffCC;overflow:hidden;">
+
+<div style="margin:0 auto;text-align: left;background: #fffcf7;padding:4px 2px 8px 5px;border:1px solid #ffd4e7;cursor: pointer;width:90%;position:relative;"><span style="text-decoration: underline dotted 1px red;line-height:22px;"><i>LAST UPDATE:</i></span> (5/2/22) HAI WASUP GUYS  <img src="https://64.media.tumblr.com/8882f400617dd2abcaedac9288713a20/aa88d9539a669e89-fe/s75x75_c1/334e3cfcad4acc1e49dda20f84e82ce1edc95525.gifv">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015522746378/tumblr_6d9bd5215eb1fa3ce0b2b9d0763bde96_f0c0b16c_75.gif" style="position:absolute;bottom:-12%;right:53%;width:14%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015522746378/tumblr_6d9bd5215eb1fa3ce0b2b9d0763bde96_f0c0b16c_75.gif" style="position:absolute;bottom:-12%;width:14%;right:40%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015522746378/tumblr_6d9bd5215eb1fa3ce0b2b9d0763bde96_f0c0b16c_75.gif" style="position:absolute;bottom:-12%;width:14%;right:27%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015522746378/tumblr_6d9bd5215eb1fa3ce0b2b9d0763bde96_f0c0b16c_75.gif" style="position:absolute;bottom:-12%;width:14%;right:14%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015522746378/tumblr_6d9bd5215eb1fa3ce0b2b9d0763bde96_f0c0b16c_75.gif" style="position:absolute;bottom:-12%;width:14%;right:1%;">
+</div>
+
+<div style="width:90%;margin:0 auto;">
+<div style="float: left;background-color: transparent;width:30%;position:relative;height:190px;"><img src="https://cdn.discordapp.com/attachments/298980640156680194/946973886157828096/dddddddddddddddda.png" style="width:160%;position:absolute;left:-30%;bottom:0%;z-index:10;"></div>
+<div style="float: right;background-color: transparent;width:70%;height:180px;overflow-y:scroll;text-align:left;background-color:#fffcf7CC;overflow-x:hidden;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949360299004293190/starsdivider.gif" width=100%;>
+<span style="text-decoration: underline dotted white;font-size:30px;">UPDATE LOG</span><br>
+
+<span style="line-height:23px;text-align: left;">
+2022年5月2日 wooh...not much progress. im out of ideas. mostly working on the other site tbh- maybe ill put a link for it here<br>
+2022年4月22日 added <a href="https://nyaa.neocities.org/garden.html">garden</a> u can find it by clicking 'stickers'. i should probably streamline the names of all the links, but idk<br>
+2022年4月20日 added <a href="https://nyaa.neocities.org/computer.html">computer</a> check it out meow<br>
+2022年4月15日 updated nav bar, there is 100% a better more efficient way to change it (which is probably something u can say about all my code tbh lol) some links r defunct 4 now!<br>
+2022年4月4日 need to make a site map... ouuuuu<br>
+2022年4月2日 what a great start to the month... got my code stolen LOL..this is awkward..well ive finally migrated to stylesheets<br>
+2022年3月30日 im back on my grind... i got burnt out LOL ..spending most of my time making wips i still havent pushed ..but i think i enjoy this new layout.<br>
+2022年3月04日 also carmen shrine is out... still a wip.. but cute!<br>
+
+2022年3月04日 LOL nvm- forgot to paste in the code i worked for hours on fixing hotlinking issues- should load fast af now ^_^ im a STEM genius!<br>
+
+2022年3月02日 changed the center of the mainpage to an iframe so i dont have to keep up with keeping the code the same for the about section as well! also added a winamp with some songs- not that i think itll get used much. also thanks for 8K WOW! hi new friends!<br>
+
+2022年2月28日 added my sanrio shrine link- still a wip but it's mostly presentable!<br>
+
+2022年2月27日 i cant stop myself from messing with the side bars......<br>
+
+2022年2月25日 lord i rediscovered old sanrio sites that had thousands of graphics and i got the urge to redo my about and main page...<br>
+
+2022年2月24日 completely overhauled my shrines layout a couple days ago- and also redid my entire d4dj shrine area...!<br>
+
+2022年2月16日 changed the front page layout... my eyes hurt<br>
+
+2022年2月14日 moved teto cuz i realized shes blocking the cbox on some monitors also working on shrines yer<br>
+
+2022年2月12日 already at 2k views............. hi everyone<br>
+
+2022年2月11日 undergoing changes.....please ignore O_O
+additional: oops.. fixed some hotlinking issues!<br>
+
+2022年2月10日 ANYBODY EVEN READING THIS SHIT? i did some changes<br>
+
+2022年2月9日..fixed links <3<br>
+
+2022年2月8日 log........ ahhehh,.... i update a lot..<br></span>
+</div>
+
+
+</div>
+
+
+</div>
+<div style="height:61px;background-image:url('https://cdn.discordapp.com/attachments/298980640156680194/958025599920787457/dot-04-48.png');width:50%;float:right;margin-top:-4px;box-shadow:inset 0 0 0 2000px #ffffff4D;">
+<div style="background: transparent;position:relative;">
+
+<div style="position:absolute;width:30%;background: #fffcf7;bottom:-320%;right:-1%;font-size:10px;border-radius:100%;padding:10px;box-shadow:0px 0px 10px #fffcf7;color: #ff8cbf;transform: rotate(3deg);z-index:10;cursor: pointer;" title="i hate autoplay..">THIS SITE WILL NEVER CONTAIN AUTOPLAY!</div>
+This website is probably going to forever be a <mark>work in progress </mark>! i update whenever i want and whatever i want ^_^ so it's messy! thank you for ur patience.</div>
+<div style="float: left;width:49%;height:130px;background: #fffcf7;margin-top:10px;margin-left:10px;line-height:20px;border:1px dotted #ffd4e7;position:relative;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573014902014003/tumblr_5ae88f53c25bab56fd2759f35bc16e11_0c5ea74b_75.gif" style="position:absolute;right:4%;top:30%;"> 
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573014696480778/tumblr_4056c39372f6782fbf96a632bef3374a_6d58e271_75.gif" style="position:absolute;left:1%;bottom:-1%;z-index:2;">
+<mark>content warning 4;</mark> <br>
+-bright colors<br>
+-flashing gifs (potentially)<br>
+-mental illness and such (i got dat)<br>
+</div>
+<div style="float: right;width:47%;height:183px;background-color: transparent;position:relative;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958574709027504158/tumblr_49af7638a8c584a6a1c4c6dbe0844bd2_e96662a7_250.gif" style="width:230px;position:absolute;bottom:-6%;left:-100%;">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958478478951469126/sdsadasdsadsa.png" style="width:86%;position:absolute;bottom:0%;left:1%;z-index:2;"> 
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958476113854750740/Illustration10.png" style="position:absolute;left:-67%;top:1%;width:32%;filter: drop-shadow(0px 0px 2px pink);">
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958572503704436828/216d02fb3eaf55ba6731fa93654ada5102d69b67.png" style="position:absolute;left:-36%;top:35%;width:80%;filter: drop-shadow(0px 0px 2px pink);transform: rotate(90deg);">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573133575618590/5e71968000061b50116fb67de2e6cbb30e0af3bf.png" style="position:absolute;left:-183%;top:24%;filter: drop-shadow(0px 0px 2px pink);transform: rotate(-90deg);">
+</div>
+<br>
+
+
+</div></div>
+
+
+<div style="width:100%;clear:both;height:42%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949356827647291402/043_b6ds6.png" style="margin-bottom:-13px;float:left;position:relative;z-index:1;"><img src="https://cdn.discordapp.com/attachments/298980640156680194/949357257169199104/200709071637168281_invalid_0000.png" style="margin-bottom:-13px;float:left;width:510px;height:71px;position:relative;z-index:1;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958055012653727744/xxxxxxxas.png" style="float:left;width:175px;margin-bottom:-20px;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958055012653727744/xxxxxxxas.png" style="float:left;width:175px;margin-bottom:-20px;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958055012653727744/xxxxxxxas.png" style="float:left;width:175px;margin-bottom:-20px;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958055012653727744/xxxxxxxas.png" style="float:left;width:175px;margin-bottom:-20px;">
+<div style="width:100%;">
+<div style="margin:0 auto;text-align: left;width:50%;margin-top:20px;height:248px;float: left;margin-left:10px;clear:both;background-color :#fffcf7CC;box-shadow:0px 0px 10px #fffcf7CC;height:154px;border:1px dotted #ffd4e7;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949360299004293190/starsdivider.gif" width=60%;>
+Ok yeah like i said I fucked up  with the videos LOL. well heres a new video today<img src="https://cdn.discordapp.com/attachments/298980640156680194/958045450416553994/original_11.gif" style="float:left;width:30%;"> Please enjoy aharahraharhar <br>EDIT: LAWL I FUCKED U P AGIN THIS VIDEO HAS BEEN UP FOR LIKE 3 WEEKS<br><br>
+ <img src="https://cdn.discordapp.com/attachments/298980640156680194/949360299004293190/starsdivider.gif" width=70%;>
+<br><br>
+
+<div style="margin:0 auto;text-align: left;background: linear-gradient(#ffd4e7, #ff8cbf);padding:4px 2px 8px 5px;border:1px solid #94736a;cursor: pointer;width:90%;position:relative;"><span style="text-decoration: underline dotted 1px white;line-height:22px;"><img src="https://cdn.discordapp.com/attachments/298980640156680194/958574935759028274/tumblr_7a751eefc1c2bc5b9d83906b88e371ed_4e6d9f12_75.gif" style="position:absolute;top:-10%;left:-3%;z-index:3;"><i>currently thinking: </i></span> i need to get rid of this stupid box<img src="https://64.media.tumblr.com/8882f400617dd2abcaedac9288713a20/aa88d9539a669e89-fe/s75x75_c1/334e3cfcad4acc1e49dda20f84e82ce1edc95525.gifv">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958575161378996234/tumblr_56b771dae68b9626a7e30f9ad3da2c2f_f8739f19_250.gif" style="position:absolute;top:-48%;left:10%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958575259148234762/b2eebc9c26b270b171c7f0912e244120ff9abc9f.png" style="position:absolute;bottom:-40%;left:10%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958575413003690024/tumblr_90e8fa78cfd9af5bd448b0179977c116_e78534a9_75.webp" style="position:absolute;top:-280%;right:-3%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015292080159/tumblr_636f39f885c845539f6fbe872114fc21_2173143d_250.gif" style="position:absolute;top:-329%;left:-3%;">
+<img src="https://64.media.tumblr.com/64183fa32a16170a564c2cb7d5a94195/01fd4233d96065aa-c1/s75x75_c1/d640b2ced8bb45523088890be7c836162340d688.gifv" style="position:absolute;top:-35%;right:-1%;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015950581760/tumblr_d54e0a2b2464090073d2938c22a20b49_9bc0f155_250.gif" style="position:absolute;right:-45%;top:-109%;filter: drop-shadow(0px 0px 2px pink);transform: rotate(90deg);">
+</div>
+</div></div>
+
+
+
+<div style="margin:0 auto;text-align: center;cursor: pointer;width:40%;margin-top:20px;float: right;margin-right:10px;position:relative;">
+
+
+
+<img src="https://64.media.tumblr.com/a3fc97bd1a6af2794a0af36d53372b62/269c7b07f0662a6f-75/s250x400/1ae53dcb96b07f2b8afa7662766da138c5ed4421.gif" style="position:absolute;bottom:0%;right:74%;z-index:6;">
+<a href="https://dokodemo.neocities.org/"><img src="https://dokodemo.neocities.org/images/monsters/tamanegi3.png" style="position:absolute;bottom:16%;right:1%;z-index:6;" title="ill have a place 2 put this guy soon"></a>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/946823087259811890/vvvvv.png" style="position:absolute;top:-5px;right:2%;width:271px;height:179px;z-index:1;">
+<div style="z-index: 3;position:relative;margin-top:10px;"><img src="https://cdn.discordapp.com/attachments/298980640156680194/958573015103307806/tumblr_985bf1543f750dc428908d51ffe730e7_9a3e836c_250.gif" style="position:absolute;top:-20%;left:-10%;width:50%;">
+<iframe width="236" height="135" src="https://www.youtube.com/embed/5de2cph-ZLk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br><br>
+<div style="background-image:url('https://cdn.discordapp.com/attachments/298980640156680194/958025599920787457/dot-04-48.png');width:90%;margin:0 auto;box-shadow:inset 0 0 0 2000px #ffffff4D;padding:3px;">
+<span style="font-size:20px;font-weight:900;">VIDEO OF THE WEEK!~ </span>
+
+</div>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958572829887066142/0d29efd0d879fe0490f7e5461cb07fcfe765e480.png">
+</div>
+
+</div></div>
+
+
+
+
+
+<div class="three"> 
+<div style="width:100%;background: #fffcf7;border:1px solid #94736a;padding:4px;margin-top:-10px;"> <mark>BUTTON ^_^</mark><br><br>
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/941840688272801853/nyaabanner.gif"><br><textarea rows="2" cols="20"><a href="https://nyaa.neocities.org/"><img src="https://nyaa.neocities.org/nyaabanner.gif"></a> </textarea><br>
+feel free 2 link!~
+</div>
+<div style="width:100%;background: #fffcf7;border:1px solid #94736a;padding:4px;margin-top:10px;height:220px;overflow: hidden;position:relative;">
+
+
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949358899906084874/visit_our_sponsors_us.png" style="filter: saturate(110%)"><br>
+<a href="https://neocities.org/site/yamos"><img src="https://cdn.discordapp.com/attachments/298980640156680194/970057363270799362/ezgif-2-d2afeae638.gif"></a><br><br><br>
+
+COOL SITES<br>
+<img src=""><a href="https://web.archive.org/web/20070501200431/http://shop.sanrio.jp/"><img src="https://web.archive.org/web/20070419104308im_/http://www.sanrio.co.jp/products/mall/onlineshop_banner.gif"></a><a href=""><img src=""></a><img src=""><img src=""><img src=""><br>wip~
+
+
+</div>
+<div style="width:104%;background: #fffcf7;border:1px solid #94736a;margin-top:10px;height:380px;position:relative;background-image:url('https://cdn.discordapp.com/attachments/298980640156680194/949359194375602226/MM002Wout_t.png');box-shadow: 0px 0px 1000px inset white;">
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/958444436654788768/mmmmm.png" style="position:absolute;top:-10%;left:-10%;filter: drop-shadow(0px 0px 10px white) saturate(130%);">
+
+<iframe src="https://www3.cbox.ws/box/?boxid=3512867&boxtag=unWlfr" width="100%" height="100%" allowtransparency="yes" allow="autoplay" frameborder="0" marginheight="0" marginwidth="0" scrolling="auto"></iframe><br><br>
+</div>
+<img src="https://cdn.discordapp.com/attachments/298980640156680194/949357386127253605/sbb_2.png" style="margin-top:5px;">
